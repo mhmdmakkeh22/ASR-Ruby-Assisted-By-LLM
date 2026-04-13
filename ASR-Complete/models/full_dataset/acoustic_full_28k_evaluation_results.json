@@ -1,0 +1,27 @@
+{
+  "dev_results": {
+    "wer": 1.0,
+    "errors": 1634,
+    "words": 1634,
+    "decode_time": 338.3885135650635,
+    "utterances": 100
+  },
+  "test_results": {
+    "wer": 1.0004262574595055,
+    "errors": 2347,
+    "words": 2346,
+    "decode_time": 323.00910687446594,
+    "utterances": 100
+  },
+  "model_info": {
+    "phones": 1694,
+    "n_states": 3,
+    "n_components": 2,
+    "dim": 13
+  },
+  "decoding_params": {
+    "beam_size": 16,
+    "lm_weight": 3.0,
+    "word_penalty": -1.0
+  }
+}

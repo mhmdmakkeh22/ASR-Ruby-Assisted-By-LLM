@@ -1,0 +1,1606 @@
+{
+  "dev_hypotheses": [
+    {
+      "utt_id": "1272-128104-0000",
+      "reference": "mister quilter is the apostle of the middle classes and we are glad to welcome his gospel",
+      "hypothesis": "ACCORDING",
+      "errors": 17,
+      "words": 17,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0001",
+      "reference": "nor is mister quilter's manner less interesting than his matter",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 10,
+      "words": 10,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0002",
+      "reference": "he tells us that at this festive season of the year with christmas and roast beef looming before us similes drawn from eating and its results occur most readily to the mind",
+      "hypothesis": "ACCORDING",
+      "errors": 32,
+      "words": 32,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0003",
+      "reference": "he has grave doubts whether sir frederick leighton's work is really greek after all and can discover in it but little of rocky ithaca",
+      "hypothesis": "ACCOMPANY",
+      "errors": 24,
+      "words": 24,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0004",
+      "reference": "linnell's pictures are a sort of up guards and at em paintings and mason's exquisite idylls are as national as a jingo poem mister birket foster's landscapes smile at one much in the same way that mister carker used to flash his teeth and mister john collier gives his sitter a cheerful slap on the back before he says like a shampooer in a turkish bath next man",
+      "hypothesis": "ACCORDING ABSTRACTION",
+      "errors": 68,
+      "words": 68,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0005",
+      "reference": "it is obviously unnecessary for us to point out how luminous these criticisms are how delicate in expression",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0006",
+      "reference": "on the general principles of art mister quilter writes with equal lucidity",
+      "hypothesis": "A",
+      "errors": 12,
+      "words": 12,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0007",
+      "reference": "painting he tells us is of a different quality to mathematics and finish in art is adding more fact",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 19,
+      "words": 19,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0008",
+      "reference": "as for etchings they are of two kinds british and foreign",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 11,
+      "words": 11,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0009",
+      "reference": "he laments most bitterly the divorce that has been made between decorative art and what we usually call pictures makes the customary appeal to the last judgment and reminds us that in the great days of art michael angelo was the furnishing upholsterer",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 43,
+      "words": 43,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0010",
+      "reference": "near the fire and the ornaments fred brought home from india on the mantel board",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0011",
+      "reference": "in fact he is quite severe on mister ruskin for not recognising that a picture should denote the frailty of man and remarks with pleasing courtesy and felicitous grace that many phases of feeling",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 34,
+      "words": 34,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0012",
+      "reference": "only unfortunately his own work never does get good",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0013",
+      "reference": "mister quilter has missed his chance for he has failed even to make himself the tupper of painting",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-128104-0014",
+      "reference": "by harry quilter m a",
+      "hypothesis": "ACCORDING ABEYANCE",
+      "errors": 5,
+      "words": 5,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0000",
+      "reference": "because you were sleeping instead of conquering the lovely rose princess has become a fiddle without a bow while poor shaggy sits there a cooing dove",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 26,
+      "words": 26,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0001",
+      "reference": "he has gone and gone for good answered polychrome who had managed to squeeze into the room beside the dragon and had witnessed the occurrences with much interest",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 28,
+      "words": 28,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0002",
+      "reference": "i have remained a prisoner only because i wished to be one and with this he stepped forward and burst the stout chains as easily as if they had been threads",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 31,
+      "words": 31,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0003",
+      "reference": "the little girl had been asleep but she heard the raps and opened the door",
+      "hypothesis": "ABSURD ACCORDING ACCLAMATION",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0004",
+      "reference": "the king has fled in disgrace and your friends are asking for you",
+      "hypothesis": "A ACCORDING",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0005",
+      "reference": "i begged ruggedo long ago to send him away but he would not do so",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0006",
+      "reference": "i also offered to help your brother to escape but he would not go",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 14,
+      "words": 14,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0007",
+      "reference": "he eats and sleeps very steadily replied the new king",
+      "hypothesis": "ACCORDINGLY ACCORDING ACCOUNTS",
+      "errors": 10,
+      "words": 10,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0008",
+      "reference": "i hope he doesn't work too hard said shaggy",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0009",
+      "reference": "he doesn't work at all",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 5,
+      "words": 5,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0010",
+      "reference": "in fact there is nothing he can do in these dominions as well as our nomes whose numbers are so great that it worries us to keep them all busy",
+      "hypothesis": "ABSURD ACCORDING ACCOUNTS",
+      "errors": 30,
+      "words": 30,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0011",
+      "reference": "not exactly returned kaliko",
+      "hypothesis": "ACCORDING ABALONE",
+      "errors": 4,
+      "words": 4,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0012",
+      "reference": "where is my brother now",
+      "hypothesis": "ACCORDING ABALONE",
+      "errors": 5,
+      "words": 5,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0013",
+      "reference": "inquired shaggy in the metal forest",
+      "hypothesis": "ACCORDING ABSENT",
+      "errors": 6,
+      "words": 6,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0014",
+      "reference": "where is that",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 3,
+      "words": 3,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0015",
+      "reference": "the metal forest is in the great domed cavern the largest in all our dominions replied kaliko",
+      "hypothesis": "ACCORDINGLY ACCORDING ABDUCTION",
+      "errors": 17,
+      "words": 17,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0016",
+      "reference": "kaliko hesitated",
+      "hypothesis": "ACCORDING",
+      "errors": 2,
+      "words": 2,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0017",
+      "reference": "however if we look sharp we may be able to discover one of these secret ways",
+      "hypothesis": "ABROAD ACCORDING ACCOUNTS",
+      "errors": 16,
+      "words": 16,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0018",
+      "reference": "oh no i'm quite sure he didn't",
+      "hypothesis": "ABSURD ACCORDING ACCESSORIES",
+      "errors": 7,
+      "words": 7,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0019",
+      "reference": "that's funny remarked betsy thoughtfully",
+      "hypothesis": "ABOVE ACCORDING ACCOMPANYING",
+      "errors": 5,
+      "words": 5,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0020",
+      "reference": "i don't believe ann knew any magic or she'd have worked it before",
+      "hypothesis": "ACCORDING ABALONE'S",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0021",
+      "reference": "i do not know confessed shaggy",
+      "hypothesis": "ACCORDING ABSURDITY",
+      "errors": 6,
+      "words": 6,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0022",
+      "reference": "true agreed kaliko",
+      "hypothesis": "ACCORDING ABALONE'S",
+      "errors": 3,
+      "words": 3,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0023",
+      "reference": "kaliko went to the big gong and pounded on it just as ruggedo used to do but no one answered the summons",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 22,
+      "words": 22,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-135031-0024",
+      "reference": "having returned to the royal cavern kaliko first pounded the gong and then sat in the throne wearing ruggedo's discarded ruby crown and holding in his hand the sceptre which ruggedo had so often thrown at his head",
+      "hypothesis": "ACCEPTED ACCORDING ABEYANCE",
+      "errors": 38,
+      "words": 38,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0000",
+      "reference": "a man said to the universe sir i exist",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0001",
+      "reference": "sweat covered brion's body trickling into the tight loincloth that was the only garment he wore",
+      "hypothesis": "ACCORDING ABJURED",
+      "errors": 16,
+      "words": 16,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0002",
+      "reference": "the cut on his chest still dripping blood the ache of his overstrained eyes even the soaring arena around him with the thousands of spectators were trivialities not worth thinking about",
+      "hypothesis": "ACCORDING ACCRUE",
+      "errors": 31,
+      "words": 31,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0003",
+      "reference": "his instant of panic was followed by a small sharp blow high on his chest",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0004",
+      "reference": "one minute a voice said and the time buzzer sounded",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 10,
+      "words": 10,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0005",
+      "reference": "a minute is not a very large measure of time and his body needed every fraction of it",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0006",
+      "reference": "the buzzer's whirr triggered his muscles into complete relaxation",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0007",
+      "reference": "only his heart and lungs worked on at a strong measured rate",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 12,
+      "words": 12,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0008",
+      "reference": "he was in reverie sliding along the borders of consciousness",
+      "hypothesis": "ACCEPTED",
+      "errors": 10,
+      "words": 10,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0009",
+      "reference": "the contestants in the twenties needed undisturbed rest therefore nights in the dormitories were as quiet as death",
+      "hypothesis": "ACCORDING ACCORD",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0010",
+      "reference": "particularly so on this last night when only two of the little cubicles were occupied the thousands of others standing with dark empty doors",
+      "hypothesis": "ACCORDING ABDICATES",
+      "errors": 24,
+      "words": 24,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0011",
+      "reference": "the other voice snapped with a harsh urgency clearly used to command",
+      "hypothesis": "ACCORDING ABALONE'S",
+      "errors": 12,
+      "words": 12,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0012",
+      "reference": "i'm here because the matter is of utmost importance and brandd is the one i must see now stand aside",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 20,
+      "words": 20,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0013",
+      "reference": "the twenties",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 2,
+      "words": 2,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0014",
+      "reference": "he must have drawn his gun because the intruder said quickly put that away you're being a fool out",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 19,
+      "words": 19,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0015",
+      "reference": "there was silence then and still wondering brion was once more asleep",
+      "hypothesis": "ACCEPTED ACCORDING ACCOUNTS",
+      "errors": 12,
+      "words": 12,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0016",
+      "reference": "ten seconds",
+      "hypothesis": "ACCORDING ABEYANCE",
+      "errors": 2,
+      "words": 2,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0017",
+      "reference": "he asked the handler who was kneading his aching muscles",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 10,
+      "words": 10,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0018",
+      "reference": "a red haired mountain of a man with an apparently inexhaustible store of energy",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 14,
+      "words": 14,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0019",
+      "reference": "there could be little art in this last and final round of fencing",
+      "hypothesis": "ACCORDING ABSTRACTION",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0020",
+      "reference": "just thrust and parry and victory to the stronger",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0021",
+      "reference": "every man who entered the twenties had his own training tricks",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 11,
+      "words": 11,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0022",
+      "reference": "there appeared to be an immediate association with the death trauma as if the two were inextricably linked into one",
+      "hypothesis": "A ACCORDING",
+      "errors": 20,
+      "words": 20,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0023",
+      "reference": "the strength that enables someone in a trance to hold his body stiff and unsupported except at two points the head and heels",
+      "hypothesis": "ACCORDING ABACK",
+      "errors": 23,
+      "words": 23,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0024",
+      "reference": "this is physically impossible when conscious",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 6,
+      "words": 6,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0025",
+      "reference": "others had died before during the twenties and death during the last round was in some ways easier than defeat",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 20,
+      "words": 20,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0026",
+      "reference": "breathing deeply brion softly spoke the auto hypnotic phrases that triggered the process",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0027",
+      "reference": "when the buzzer sounded he pulled his foil from his second's startled grasp and ran forward",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 16,
+      "words": 16,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0028",
+      "reference": "irolg looked amazed at the sudden fury of the attack then smiled",
+      "hypothesis": "ACCORDINGLY ACCORDING ABEYANCE",
+      "errors": 12,
+      "words": 12,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0029",
+      "reference": "he thought it was a last burst of energy he knew how close they both were to exhaustion",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0030",
+      "reference": "brion saw something close to panic on his opponent's face when the man finally recognized his error",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 17,
+      "words": 17,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0031",
+      "reference": "a wave of despair rolled out from irolg brion sensed it and knew the fifth point was his",
+      "hypothesis": "A ACCORDING ABDUCTION",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1272-141231-0032",
+      "reference": "then the powerful twist that thrust it aside in and under the guard",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0000",
+      "reference": "he had written a number of books himself among them a history of dancing a history of costume a key to shakespeare's sonnets a study of the poetry of ernest dowson et cetera",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 33,
+      "words": 33,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0001",
+      "reference": "hugh's written a delightful part for her and she's quite inexpressible",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 11,
+      "words": 11,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0002",
+      "reference": "i happen to have mac connell's box for tonight or there'd be no chance of our getting places",
+      "hypothesis": "ACCORDING ABEYANCE",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0003",
+      "reference": "alexander exclaimed mildly",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 3,
+      "words": 3,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0004",
+      "reference": "myself i always knew she had it in her",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0005",
+      "reference": "do you know alexander mainhall looked with perplexity up into the top of the hansom and rubbed his pink cheek with his gloved finger do you know i sometimes think of taking to criticism seriously myself",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 36,
+      "words": 36,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0006",
+      "reference": "when they entered the stage box on the left the first act was well under way the scene being the interior of a cabin in the south of ireland",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 29,
+      "words": 29,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0007",
+      "reference": "as they sat down a burst of applause drew alexander's attention to the stage",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 14,
+      "words": 14,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0008",
+      "reference": "of course hilda is irish the burgoynes have been stage people for generations and she has the irish voice",
+      "hypothesis": "ACCORDING ABALONE'S",
+      "errors": 19,
+      "words": 19,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0009",
+      "reference": "it's delightful to hear it in a london theatre",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0010",
+      "reference": "when she began to dance by way of showing the gossoons what she had seen in the fairy rings at night the house broke into a prolonged uproar",
+      "hypothesis": "ACCORDING ABBESS",
+      "errors": 28,
+      "words": 28,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0011",
+      "reference": "after her dance she withdrew from the dialogue and retreated to the ditch wall back of philly's burrow where she sat singing the rising of the moon and making a wreath of primroses for her donkey",
+      "hypothesis": "ACCORDING ACCOSTED",
+      "errors": 36,
+      "words": 36,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0012",
+      "reference": "mac connell let me introduce mister bartley alexander",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 8,
+      "words": 8,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0013",
+      "reference": "the playwright gave mainhall a curious look out of his deep set faded eyes and made a wry face",
+      "hypothesis": "ACCORDING ABALONE",
+      "errors": 19,
+      "words": 19,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0014",
+      "reference": "he nodded curtly and made for the door dodging acquaintances as he went",
+      "hypothesis": "ABSENCE",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0015",
+      "reference": "i dare say it's quite true that there's never been any one else",
+      "hypothesis": "ACCORDING ABEYANCE",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0016",
+      "reference": "he's another who's awfully keen about her let me introduce you",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 11,
+      "words": 11,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0017",
+      "reference": "sir harry towne bowed and said that he had met mister alexander and his wife in tokyo",
+      "hypothesis": "ACCORDING ABSTRACTION",
+      "errors": 17,
+      "words": 17,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0018",
+      "reference": "i say sir harry the little girl's going famously to night isn't she",
+      "hypothesis": "ACCOMMODATION",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0019",
+      "reference": "the fact is she's feeling rather seedy poor child",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0020",
+      "reference": "a little attack of nerves possibly",
+      "hypothesis": "ACCORDING ACCESSORIES",
+      "errors": 6,
+      "words": 6,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0021",
+      "reference": "he bowed as the warning bell rang and mainhall whispered you know lord westmere of course the stooped man with the long gray mustache talking to lady dowle",
+      "hypothesis": "A ACCORDING ABSENCE",
+      "errors": 28,
+      "words": 28,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0022",
+      "reference": "in a moment peggy was on the stage again and alexander applauded vigorously with the rest",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 16,
+      "words": 16,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0023",
+      "reference": "in the half light he looked about at the stalls and boxes and smiled a little consciously recalling with amusement sir harry's judicial frown",
+      "hypothesis": "ABSORBED ACCORDING ACCOUNTS",
+      "errors": 24,
+      "words": 24,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0024",
+      "reference": "he leaned forward and beamed felicitations as warmly as mainhall himself when at the end of the play she came again and again before the curtain panting a little and flushed her eyes dancing and her eager nervous little mouth tremulous with excitement",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 43,
+      "words": 43,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0025",
+      "reference": "all the same he lifted his glass here's to you little hilda",
+      "hypothesis": "ACCENTS ACCORDING ABDUCTION",
+      "errors": 12,
+      "words": 12,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1462-170138-0026",
+      "reference": "i'm glad she's held her own since",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 7,
+      "words": 7,
+      "wer": 1.0
+    }
+  ],
+  "test_hypotheses": [
+    {
+      "utt_id": "1089-134686-0000",
+      "reference": "he hoped there would be stew for dinner turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour fattened sauce",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 28,
+      "words": 28,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0001",
+      "reference": "stuff it into you his belly counselled him",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 8,
+      "words": 8,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0002",
+      "reference": "after early nightfall the yellow lamps would light up here and there the squalid quarter of the brothels",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0003",
+      "reference": "hello bertie any good in your mind",
+      "hypothesis": "ACCORDING ABBOT",
+      "errors": 7,
+      "words": 7,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0004",
+      "reference": "number ten fresh nelly is waiting on you good night husband",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 11,
+      "words": 11,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0005",
+      "reference": "the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness",
+      "hypothesis": "ACCORDING ABJURED",
+      "errors": 22,
+      "words": 22,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0006",
+      "reference": "the dull light fell more faintly upon the page whereon another equation began to unfold itself slowly and to spread abroad its widening tail",
+      "hypothesis": "ACCORDING ABSTRACTION",
+      "errors": 24,
+      "words": 24,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0007",
+      "reference": "a cold lucid indifference reigned in his soul",
+      "hypothesis": "ACCORDING ABBOT",
+      "errors": 8,
+      "words": 8,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0008",
+      "reference": "the chaos in which his ardour extinguished itself was a cold indifferent knowledge of himself",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0009",
+      "reference": "at most by an alms given to a beggar whose blessing he fled from he might hope wearily to win for himself some measure of actual grace",
+      "hypothesis": "ABUNDANT ACCORDING ABSTRACTION",
+      "errors": 27,
+      "words": 27,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0010",
+      "reference": "well now ennis i declare you have a head and so has my stick",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 14,
+      "words": 14,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0011",
+      "reference": "on saturday mornings when the sodality met in the chapel to recite the little office his place was a cushioned kneeling desk at the right of the altar from which he led his wing of boys through the responses",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 39,
+      "words": 39,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0012",
+      "reference": "her eyes seemed to regard him with mild pity her holiness a strange light glowing faintly upon her frail flesh did not humiliate the sinner who approached her",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 28,
+      "words": 28,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0013",
+      "reference": "if ever he was impelled to cast sin from him and to repent the impulse that moved him was the wish to be her knight",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 25,
+      "words": 25,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0014",
+      "reference": "he tried to think how it could be",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 8,
+      "words": 8,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0015",
+      "reference": "but the dusk deepening in the schoolroom covered over his thoughts the bell rang",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 14,
+      "words": 14,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0016",
+      "reference": "then you can ask him questions on the catechism dedalus",
+      "hypothesis": "ABOVE ACCORDING ACCOUNTS",
+      "errors": 10,
+      "words": 10,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0017",
+      "reference": "stephen leaning back and drawing idly on his scribbler listened to the talk about him which heron checked from time to time by saying",
+      "hypothesis": "ABSOLUTE ACCORDING ABDUCTION",
+      "errors": 24,
+      "words": 24,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0018",
+      "reference": "it was strange too that he found an arid pleasure in following up to the end the rigid lines of the doctrines of the church and penetrating into obscure silences only to hear and feel the more deeply his own condemnation",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 41,
+      "words": 41,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0019",
+      "reference": "the sentence of saint james which says that he who offends against one commandment becomes guilty of all had seemed to him first a swollen phrase until he had begun to grope in the darkness of his own state",
+      "hypothesis": "ACCORDING ABDICATES",
+      "errors": 39,
+      "words": 39,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0020",
+      "reference": "if a man had stolen a pound in his youth and had used that pound to amass a huge fortune how much was he obliged to give back the pound he had stolen only or the pound together with the compound interest accruing upon it or all his huge fortune",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 50,
+      "words": 50,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0021",
+      "reference": "if a layman in giving baptism pour the water before saying the words is the child baptized",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 17,
+      "words": 17,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0022",
+      "reference": "how comes it that while the first beatitude promises the kingdom of heaven to the poor of heart the second beatitude promises also to the meek that they shall possess the land",
+      "hypothesis": "ACCORDING ABACK",
+      "errors": 32,
+      "words": 32,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0023",
+      "reference": "why was the sacrament of the eucharist instituted under the two species of bread and wine if jesus christ be present body and blood soul and divinity in the bread alone and in the wine alone",
+      "hypothesis": "ACCORDING ACCENT",
+      "errors": 36,
+      "words": 36,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0024",
+      "reference": "if the wine change into vinegar and the host crumble into corruption after they have been consecrated is jesus christ still present under their species as god and as man",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 30,
+      "words": 30,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0025",
+      "reference": "a gentle kick from the tall boy in the bench behind urged stephen to ask a difficult question",
+      "hypothesis": "ACCORDING ABSENT",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0026",
+      "reference": "the rector did not ask for a catechism to hear the lesson from",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0027",
+      "reference": "he clasped his hands on the desk and said",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0028",
+      "reference": "the retreat will begin on wednesday afternoon in honour of saint francis xavier whose feast day is saturday",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0029",
+      "reference": "on friday confession will be heard all the afternoon after beads",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 11,
+      "words": 11,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0030",
+      "reference": "beware of making that mistake",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 5,
+      "words": 5,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0031",
+      "reference": "stephen's heart began slowly to fold and fade with fear like a withering flower",
+      "hypothesis": "ABOUT ACCORDING ABJURED",
+      "errors": 14,
+      "words": 14,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0032",
+      "reference": "he is called as you know the apostle of the indies",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 11,
+      "words": 11,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0033",
+      "reference": "a great saint saint francis xavier",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 6,
+      "words": 6,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0034",
+      "reference": "the rector paused and then shaking his clasped hands before him went on",
+      "hypothesis": "ABSOLUTE ACCORDING ACCOUNTS",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0035",
+      "reference": "he had the faith in him that moves mountains",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0036",
+      "reference": "a great saint saint francis xavier",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 6,
+      "words": 6,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134686-0037",
+      "reference": "in the silence their dark fire kindled the dusk into a tawny glow",
+      "hypothesis": "ACCORDING ABJURED",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0000",
+      "reference": "he could wait no longer",
+      "hypothesis": "ACCORDING ACCRUE",
+      "errors": 5,
+      "words": 5,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0001",
+      "reference": "for a full hour he had paced up and down waiting but he could wait no longer",
+      "hypothesis": "ACCORDING ABSTRACTION",
+      "errors": 17,
+      "words": 17,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0002",
+      "reference": "he set off abruptly for the bull walking rapidly lest his father's shrill whistle might call him back and in a few moments he had rounded the curve at the police barrack and was safe",
+      "hypothesis": "ACCORDING ACCORD",
+      "errors": 35,
+      "words": 35,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0003",
+      "reference": "the university",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 2,
+      "words": 2,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0004",
+      "reference": "pride after satisfaction uplifted him like long slow waves",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0005",
+      "reference": "whose feet are as the feet of harts and underneath the everlasting arms",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 13,
+      "words": 13,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0006",
+      "reference": "the pride of that dim image brought back to his mind the dignity of the office he had refused",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 19,
+      "words": 19,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0007",
+      "reference": "soon the whole bridge was trembling and resounding",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 8,
+      "words": 8,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0008",
+      "reference": "the uncouth faces passed him two by two stained yellow or red or livid by the sea and as he strove to look at them with ease and indifference a faint stain of personal shame and commiseration rose to his own face",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 42,
+      "words": 42,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0009",
+      "reference": "angry with himself he tried to hide his face from their eyes by gazing down sideways into the shallow swirling water under the bridge but he still saw a reflection therein of their top heavy silk hats and humble tape like collars and loosely hanging clerical clothes brother hickey",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 49,
+      "words": 49,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0010",
+      "reference": "brother mac ardle brother keogh",
+      "hypothesis": "ACCORDING ABALONE",
+      "errors": 5,
+      "words": 5,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0011",
+      "reference": "their piety would be like their names like their faces like their clothes and it was idle for him to tell himself that their humble and contrite hearts it might be paid a far richer tribute of devotion than his had ever been a gift tenfold more acceptable than his elaborate adoration",
+      "hypothesis": "ACCORDING ABSENT",
+      "errors": 52,
+      "words": 52,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0012",
+      "reference": "it was idle for him to move himself to be generous towards them to tell himself that if he ever came to their gates stripped of his pride beaten and in beggar's weeds that they would be generous towards him loving him as themselves",
+      "hypothesis": "ACCEPTED ACCORDING ABEYANCE",
+      "errors": 44,
+      "words": 44,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0013",
+      "reference": "idle and embittering finally to argue against his own dispassionate certitude that the commandment of love bade us not to love our neighbour as ourselves with the same amount and intensity of love but to love him as ourselves with the same kind of love",
+      "hypothesis": "ABOUT ACCORDING ABJURED",
+      "errors": 45,
+      "words": 45,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0014",
+      "reference": "the phrase and the day and the scene harmonized in a chord",
+      "hypothesis": "ACCORDING ACCRUE",
+      "errors": 12,
+      "words": 12,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0015",
+      "reference": "words was it their colours",
+      "hypothesis": "ABILITY ACCORDING ABSENT",
+      "errors": 5,
+      "words": 5,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0016",
+      "reference": "they were voyaging across the deserts of the sky a host of nomads on the march voyaging high over ireland westward bound",
+      "hypothesis": "ACCORDING ACCENT",
+      "errors": 22,
+      "words": 22,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0017",
+      "reference": "the europe they had come from lay out there beyond the irish sea europe of strange tongues and valleyed and woodbegirt and citadelled and of entrenched and marshalled races",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 29,
+      "words": 29,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0018",
+      "reference": "again again",
+      "hypothesis": "ACCORDINGLY ACCORDING ACCENT",
+      "errors": 3,
+      "words": 2,
+      "wer": 1.5
+    },
+    {
+      "utt_id": "1089-134691-0019",
+      "reference": "a voice from beyond the world was calling",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 8,
+      "words": 8,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0020",
+      "reference": "hello stephanos here comes the dedalus",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 6,
+      "words": 6,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0021",
+      "reference": "their diving stone poised on its rude supports and rocking under their plunges and the rough hewn stones of the sloping breakwater over which they scrambled in their horseplay gleamed with cold wet lustre",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 34,
+      "words": 34,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0022",
+      "reference": "he stood still in deference to their calls and parried their banter with easy words",
+      "hypothesis": "ACCORDING ABALONE",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0023",
+      "reference": "it was a pain to see them and a sword like pain to see the signs of adolescence that made repellent their pitiable nakedness",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 24,
+      "words": 24,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0024",
+      "reference": "stephanos dedalos",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 2,
+      "words": 2,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1089-134691-0025",
+      "reference": "a moment before the ghost of the ancient kingdom of the danes had looked forth through the vesture of the hazewrapped city",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 22,
+      "words": 22,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0000",
+      "reference": "you will find me continually speaking of four men titian holbein turner and tintoret in almost the same terms",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 19,
+      "words": 19,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0001",
+      "reference": "they unite every quality and sometimes you will find me referring to them as colorists sometimes as chiaroscurists",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 18,
+      "words": 18,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0002",
+      "reference": "by being studious of color they are studious of division and while the chiaroscurist devotes himself to the representation of degrees of force in one thing unseparated light the colorists have for their function the attainment of beauty by arrangement of the divisions of light",
+      "hypothesis": "ACCORDING ABBESS",
+      "errors": 45,
+      "words": 45,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0003",
+      "reference": "my first and principal reason was that they enforced beyond all resistance on any student who might attempt to copy them this method of laying portions of distinct hue side by side",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 32,
+      "words": 32,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0004",
+      "reference": "some of the touches indeed when the tint has been mixed with much water have been laid in little drops or ponds so that the pigment might crystallize hard at the edge",
+      "hypothesis": "ACCORDING ABJURED",
+      "errors": 32,
+      "words": 32,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0005",
+      "reference": "it is the head of a parrot with a little flower in his beak from a picture of carpaccio's one of his series of the life of saint george",
+      "hypothesis": "ACCORDING ABDICATES",
+      "errors": 29,
+      "words": 29,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0006",
+      "reference": "then he comes to the beak of it",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 8,
+      "words": 8,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0007",
+      "reference": "the brown ground beneath is left for the most part one touch of black is put for the hollow two delicate lines of dark gray define the outer curve and one little quivering touch of white draws the inner edge of the mandible",
+      "hypothesis": "ACCORDING ACCENT",
+      "errors": 43,
+      "words": 43,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0008",
+      "reference": "for believe me the final philosophy of art can only ratify their opinion that the beauty of a cock robin is to be red and of a grass plot to be green and the best skill of art is in instantly seizing on the manifold deliciousness of light which you can only seize by precision of instantaneous touch",
+      "hypothesis": "ACCORDING ABALONE'S",
+      "errors": 58,
+      "words": 58,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0009",
+      "reference": "now you will see in these studies that the moment the white is inclosed properly and harmonized with the other hues it becomes somehow more precious and pearly than the white paper and that i am not afraid to leave a whole field of untreated white paper all round it being sure that even the little diamonds in the round window will tell as jewels if they are gradated justly",
+      "hypothesis": "ACCORDING ACCOSTED",
+      "errors": 70,
+      "words": 70,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0010",
+      "reference": "but in this vignette copied from turner you have the two principles brought out perfectly",
+      "hypothesis": "ACCORDING ABALONE'S",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0011",
+      "reference": "they are beyond all other works that i know existing dependent for their effect on low subdued tones their favorite choice in time of day being either dawn or twilight and even their brightest sunsets produced chiefly out of gray paper",
+      "hypothesis": "ACCORDING ACCRUE",
+      "errors": 41,
+      "words": 41,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0012",
+      "reference": "it may be that a great colorist will use his utmost force of color as a singer his full power of voice but loud or low the virtue is in both cases always in refinement never in loudness",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 38,
+      "words": 38,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0013",
+      "reference": "it must remember be one or the other",
+      "hypothesis": "ACCORDING ACCRUE",
+      "errors": 8,
+      "words": 8,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0014",
+      "reference": "do not therefore think that the gothic school is an easy one",
+      "hypothesis": "ACCIDENTAL",
+      "errors": 12,
+      "words": 12,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0015",
+      "reference": "the law of that school is that everything shall be seen clearly or at least only in such mist or faintness as shall be delightful and i have no doubt that the best introduction to it would be the elementary practice of painting every study on a golden ground",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 49,
+      "words": 49,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0016",
+      "reference": "this at once compels you to understand that the work is to be imaginative and decorative that it represents beautiful things in the clearest way but not under existing conditions and that in fact you are producing jeweler's work rather than pictures",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 42,
+      "words": 42,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0017",
+      "reference": "that a style is restrained or severe does not mean that it is also erroneous",
+      "hypothesis": "ACCORDING ACCLAMATION",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0018",
+      "reference": "in all early gothic art indeed you will find failure of this kind especially distortion and rigidity which are in many respects painfully to be compared with the splendid repose of classic art",
+      "hypothesis": "A ACCORDING ACCOUNTS",
+      "errors": 33,
+      "words": 33,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0019",
+      "reference": "the large letter contains indeed entirely feeble and ill drawn figures that is merely childish and failing work of an inferior hand it is not characteristic of gothic or any other school",
+      "hypothesis": "ACCORDING ABSENT",
+      "errors": 32,
+      "words": 32,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0020",
+      "reference": "but observe you can only do this on one condition that of striving also to create in reality the beauty which you seek in imagination",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 25,
+      "words": 25,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0021",
+      "reference": "it will be wholly impossible for you to retain the tranquillity of temper and felicity of faith necessary for noble purist painting unless you are actively engaged in promoting the felicity and peace of practical life",
+      "hypothesis": "ACCORDING ABALONE",
+      "errors": 36,
+      "words": 36,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0022",
+      "reference": "you must look at him in the face fight him conquer him with what scathe you may you need not think to keep out of the way of him",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 29,
+      "words": 29,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0023",
+      "reference": "the colorist says first of all as my delicious paroquet was ruby so this nasty viper shall be black and then is the question can i round him off even though he is black and make him slimy and yet springy and close down clotted like a pool of black blood on the earth all the same",
+      "hypothesis": "ACCORDING ABALONE'S",
+      "errors": 57,
+      "words": 57,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0024",
+      "reference": "nothing will be more precious to you i think in the practical study of art than the conviction which will force itself on you more and more every hour of the way all things are bound together little and great in spirit and in matter",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 45,
+      "words": 45,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0025",
+      "reference": "you know i have just been telling you how this school of materialism and clay involved itself at last in cloud and fire",
+      "hypothesis": "ACCORDING ABSENT",
+      "errors": 23,
+      "words": 23,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0026",
+      "reference": "here is an equally typical greek school landscape by wilson lost wholly in golden mist the trees so slightly drawn that you don't know if they are trees or towers and no care for color whatever perfectly deceptive and marvelous effect of sunshine through the mist apollo and the python",
+      "hypothesis": "ABOUT ACCORDING ACCOUNTS",
+      "errors": 50,
+      "words": 50,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0027",
+      "reference": "now here is raphael exactly between the two trees still drawn leaf by leaf wholly formal but beautiful mist coming gradually into the distance",
+      "hypothesis": "ACCORDING ABALONE'S",
+      "errors": 24,
+      "words": 24,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0028",
+      "reference": "well then last here is turner's greek school of the highest class and you define his art absolutely as first the displaying intensely and with the sternest intellect of natural form as it is and then the envelopment of it with cloud and fire",
+      "hypothesis": "ACCORDING ACCESSORIES",
+      "errors": 44,
+      "words": 44,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0029",
+      "reference": "only there are two sorts of cloud and fire",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 9,
+      "words": 9,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0030",
+      "reference": "he knows them both",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 4,
+      "words": 4,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0031",
+      "reference": "there's one and there's another the dudley and the flint",
+      "hypothesis": "ACCORDINGLY ACCORDING ACCOSTED",
+      "errors": 10,
+      "words": 10,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0032",
+      "reference": "it is only a pencil outline by edward burne jones in illustration of the story of psyche it is the introduction of psyche after all her troubles into heaven",
+      "hypothesis": "ACCORDING ABDUCTION",
+      "errors": 29,
+      "words": 29,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0033",
+      "reference": "every plant in the grass is set formally grows perfectly and may be realized completely",
+      "hypothesis": "ACCORDING ACCIDENTAL",
+      "errors": 15,
+      "words": 15,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0034",
+      "reference": "exquisite order and universal with eternal life and light this is the faith and effort of the schools of crystal and you may describe and complete their work quite literally by taking any verses of chaucer in his tender mood and observing how he insists on the clearness and brightness first and then on the order",
+      "hypothesis": "ABOUT ACCORDING ACCOUNTS",
+      "errors": 56,
+      "words": 56,
+      "wer": 1.0
+    },
+    {
+      "utt_id": "1188-133604-0035",
+      "reference": "thus in chaucer's dream",
+      "hypothesis": "ACCORDING ACCOUNTS",
+      "errors": 4,
+      "words": 4,
+      "wer": 1.0
+    }
+  ]
+}

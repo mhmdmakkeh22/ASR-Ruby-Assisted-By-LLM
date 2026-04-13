@@ -1,0 +1,20 @@
+GIT
+  remote: https://github.com/ruby-numo/numo-narray.git
+  revision: 95c05257349b954c027c2284834408736244662a
+  specs:
+    numo-narray (0.9.2.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    csv (3.3.5)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  csv
+  numo-narray!
+
+BUNDLED WITH
+   2.6.9

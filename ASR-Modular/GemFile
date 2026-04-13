@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+ruby ">= 3.1.0"
+
+# Tests (Ruby often bundles minitest, but pinning keeps behavior stable)
+gem "minitest", "~> 5.20"

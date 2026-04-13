@@ -1,0 +1,9 @@
+{
+  "previous_wer": 1.0,
+  "dev_wer": 1.0906525503756856,
+  "test_wer": 1.0743374289605636,
+  "improvement": 0,
+  "training_time": 4.426243543624878,
+  "n_phones": 9,
+  "algorithm": "Fixed HMM-GMM with proper WER calculation"
+}

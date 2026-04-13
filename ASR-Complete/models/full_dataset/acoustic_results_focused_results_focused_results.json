@@ -1,0 +1,665 @@
+{
+  "training_config": {
+    "n_iterations": 20,
+    "n_components": 12,
+    "n_states": 7,
+    "batch_size": 1000,
+    "convergence_achieved": true,
+    "ruby_compatible": true,
+    "focus": "MAXIMUM_ACCURACY"
+  },
+  "dataset_info": {
+    "train_utterances": 28539,
+    "dev_utterances": 1000,
+    "test_utterances": 1000,
+    "feature_dim": 13,
+    "full_dataset": true,
+    "ruby_ready": true
+  },
+  "training_results": {
+    "total_time": 585.083482503891,
+    "training_speed": 48.77765456284302,
+    "final_convergence_rate": 648.3333333333334
+  },
+  "ruby_model_info": {
+    "n_phones": 41,
+    "n_states": 7,
+    "n_components": 12,
+    "total_parameters": 137760,
+    "ruby_compatible": true,
+    "output_format": "Ruby JSON + Marshal",
+    "enhanced_features": true
+  },
+  "evaluation_results": {
+    "dev": {
+      "wer": 1.08774824489172,
+      "total_errors": 20483,
+      "total_words": 19483,
+      "processed_utts": 1000,
+      "eval_time": 59.66358041763306,
+      "unique_outputs": 5,
+      "hypotheses": [
+        {
+          "utt_id": "1272-128104-0000",
+          "reference": [
+            "mister",
+            "quilter",
+            "is",
+            "the",
+            "apostle",
+            "of",
+            "the",
+            "middle",
+            "classes",
+            "and",
+            "we",
+            "are",
+            "glad",
+            "to",
+            "welcome",
+            "his",
+            "gospel"
+          ],
+          "hypothesis": [
+            "OF"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0001",
+          "reference": [
+            "nor",
+            "is",
+            "mister",
+            "quilter's",
+            "manner",
+            "less",
+            "interesting",
+            "than",
+            "his",
+            "matter"
+          ],
+          "hypothesis": [
+            "I"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0002",
+          "reference": [
+            "he",
+            "tells",
+            "us",
+            "that",
+            "at",
+            "this",
+            "festive",
+            "season",
+            "of",
+            "the",
+            "year",
+            "with",
+            "christmas",
+            "and",
+            "roast",
+            "beef",
+            "looming",
+            "before",
+            "us",
+            "similes",
+            "drawn",
+            "from",
+            "eating",
+            "and",
+            "its",
+            "results",
+            "occur",
+            "most",
+            "readily",
+            "to",
+            "the",
+            "mind"
+          ],
+          "hypothesis": [
+            "OF"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0003",
+          "reference": [
+            "he",
+            "has",
+            "grave",
+            "doubts",
+            "whether",
+            "sir",
+            "frederick",
+            "leighton's",
+            "work",
+            "is",
+            "really",
+            "greek",
+            "after",
+            "all",
+            "and",
+            "can",
+            "discover",
+            "in",
+            "it",
+            "but",
+            "little",
+            "of",
+            "rocky",
+            "ithaca"
+          ],
+          "hypothesis": [
+            "IS"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0004",
+          "reference": [
+            "linnell's",
+            "pictures",
+            "are",
+            "a",
+            "sort",
+            "of",
+            "up",
+            "guards",
+            "and",
+            "at",
+            "em",
+            "paintings",
+            "and",
+            "mason's",
+            "exquisite",
+            "idylls",
+            "are",
+            "as",
+            "national",
+            "as",
+            "a",
+            "jingo",
+            "poem",
+            "mister",
+            "birket",
+            "foster's",
+            "landscapes",
+            "smile",
+            "at",
+            "one",
+            "much",
+            "in",
+            "the",
+            "same",
+            "way",
+            "that",
+            "mister",
+            "carker",
+            "used",
+            "to",
+            "flash",
+            "his",
+            "teeth",
+            "and",
+            "mister",
+            "john",
+            "collier",
+            "gives",
+            "his",
+            "sitter",
+            "a",
+            "cheerful",
+            "slap",
+            "on",
+            "the",
+            "back",
+            "before",
+            "he",
+            "says",
+            "like",
+            "a",
+            "shampooer",
+            "in",
+            "a",
+            "turkish",
+            "bath",
+            "next",
+            "man"
+          ],
+          "hypothesis": [
+            "TO"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0005",
+          "reference": [
+            "it",
+            "is",
+            "obviously",
+            "unnecessary",
+            "for",
+            "us",
+            "to",
+            "point",
+            "out",
+            "how",
+            "luminous",
+            "these",
+            "criticisms",
+            "are",
+            "how",
+            "delicate",
+            "in",
+            "expression"
+          ],
+          "hypothesis": [
+            "IS"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0006",
+          "reference": [
+            "on",
+            "the",
+            "general",
+            "principles",
+            "of",
+            "art",
+            "mister",
+            "quilter",
+            "writes",
+            "with",
+            "equal",
+            "lucidity"
+          ],
+          "hypothesis": [
+            "TO"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0007",
+          "reference": [
+            "painting",
+            "he",
+            "tells",
+            "us",
+            "is",
+            "of",
+            "a",
+            "different",
+            "quality",
+            "to",
+            "mathematics",
+            "and",
+            "finish",
+            "in",
+            "art",
+            "is",
+            "adding",
+            "more",
+            "fact"
+          ],
+          "hypothesis": [
+            "IS"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0008",
+          "reference": [
+            "as",
+            "for",
+            "etchings",
+            "they",
+            "are",
+            "of",
+            "two",
+            "kinds",
+            "british",
+            "and",
+            "foreign"
+          ],
+          "hypothesis": [
+            "IS"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1272-128104-0009",
+          "reference": [
+            "he",
+            "laments",
+            "most",
+            "bitterly",
+            "the",
+            "divorce",
+            "that",
+            "has",
+            "been",
+            "made",
+            "between",
+            "decorative",
+            "art",
+            "and",
+            "what",
+            "we",
+            "usually",
+            "call",
+            "pictures",
+            "makes",
+            "the",
+            "customary",
+            "appeal",
+            "to",
+            "the",
+            "last",
+            "judgment",
+            "and",
+            "reminds",
+            "us",
+            "that",
+            "in",
+            "the",
+            "great",
+            "days",
+            "of",
+            "art",
+            "michael",
+            "angelo",
+            "was",
+            "the",
+            "furnishing",
+            "upholsterer"
+          ],
+          "hypothesis": [
+            "TO"
+          ],
+          "loglik": -7.707755278982137
+        }
+      ]
+    },
+    "test": {
+      "wer": 1.0790995475160665,
+      "total_errors": 21650,
+      "total_words": 20650,
+      "processed_utts": 1000,
+      "eval_time": 59.79101777076721,
+      "unique_outputs": 5,
+      "hypotheses": [
+        {
+          "utt_id": "1089-134686-0000",
+          "reference": [
+            "he",
+            "hoped",
+            "there",
+            "would",
+            "be",
+            "stew",
+            "for",
+            "dinner",
+            "turnips",
+            "and",
+            "carrots",
+            "and",
+            "bruised",
+            "potatoes",
+            "and",
+            "fat",
+            "mutton",
+            "pieces",
+            "to",
+            "be",
+            "ladled",
+            "out",
+            "in",
+            "thick",
+            "peppered",
+            "flour",
+            "fattened",
+            "sauce"
+          ],
+          "hypothesis": [
+            "OF"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0001",
+          "reference": [
+            "stuff",
+            "it",
+            "into",
+            "you",
+            "his",
+            "belly",
+            "counselled",
+            "him"
+          ],
+          "hypothesis": [
+            "I"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0002",
+          "reference": [
+            "after",
+            "early",
+            "nightfall",
+            "the",
+            "yellow",
+            "lamps",
+            "would",
+            "light",
+            "up",
+            "here",
+            "and",
+            "there",
+            "the",
+            "squalid",
+            "quarter",
+            "of",
+            "the",
+            "brothels"
+          ],
+          "hypothesis": [
+            "OF"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0003",
+          "reference": [
+            "hello",
+            "bertie",
+            "any",
+            "good",
+            "in",
+            "your",
+            "mind"
+          ],
+          "hypothesis": [
+            "TO"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0004",
+          "reference": [
+            "number",
+            "ten",
+            "fresh",
+            "nelly",
+            "is",
+            "waiting",
+            "on",
+            "you",
+            "good",
+            "night",
+            "husband"
+          ],
+          "hypothesis": [
+            "IN"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0005",
+          "reference": [
+            "the",
+            "music",
+            "came",
+            "nearer",
+            "and",
+            "he",
+            "recalled",
+            "the",
+            "words",
+            "the",
+            "words",
+            "of",
+            "shelley's",
+            "fragment",
+            "upon",
+            "the",
+            "moon",
+            "wandering",
+            "companionless",
+            "pale",
+            "for",
+            "weariness"
+          ],
+          "hypothesis": [
+            "IN"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0006",
+          "reference": [
+            "the",
+            "dull",
+            "light",
+            "fell",
+            "more",
+            "faintly",
+            "upon",
+            "the",
+            "page",
+            "whereon",
+            "another",
+            "equation",
+            "began",
+            "to",
+            "unfold",
+            "itself",
+            "slowly",
+            "and",
+            "to",
+            "spread",
+            "abroad",
+            "its",
+            "widening",
+            "tail"
+          ],
+          "hypothesis": [
+            "TO"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0007",
+          "reference": [
+            "a",
+            "cold",
+            "lucid",
+            "indifference",
+            "reigned",
+            "in",
+            "his",
+            "soul"
+          ],
+          "hypothesis": [
+            "IN"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0008",
+          "reference": [
+            "the",
+            "chaos",
+            "in",
+            "which",
+            "his",
+            "ardour",
+            "extinguished",
+            "itself",
+            "was",
+            "a",
+            "cold",
+            "indifferent",
+            "knowledge",
+            "of",
+            "himself"
+          ],
+          "hypothesis": [
+            "TO"
+          ],
+          "loglik": -7.707755278982137
+        },
+        {
+          "utt_id": "1089-134686-0009",
+          "reference": [
+            "at",
+            "most",
+            "by",
+            "an",
+            "alms",
+            "given",
+            "to",
+            "a",
+            "beggar",
+            "whose",
+            "blessing",
+            "he",
+            "fled",
+            "from",
+            "he",
+            "might",
+            "hope",
+            "wearily",
+            "to",
+            "win",
+            "for",
+            "himself",
+            "some",
+            "measure",
+            "of",
+            "actual",
+            "grace"
+          ],
+          "hypothesis": [
+            "IN"
+          ],
+          "loglik": -7.707755278982137
+        }
+      ]
+    }
+  },
+  "improvements": {
+    "python_training": true,
+    "ruby_model_output": true,
+    "full_dataset_training": true,
+    "results_focused": true,
+    "maximum_accuracy": true,
+    "enhanced_diversity": true
+  }
+}

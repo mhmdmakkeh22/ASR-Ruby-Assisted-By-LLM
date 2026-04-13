@@ -1,0 +1,32 @@
+{
+  "dataset_info": {
+    "train_utterances": 28539,
+    "dev_utterances": 1000,
+    "test_utterances": 1000,
+    "feature_dim": 13
+  },
+  "training_results": {
+    "total_time": 4.657595872879028,
+    "training_speed": 6127.410101460566,
+    "n_iterations": 3,
+    "final_loglik": -142048.35
+  },
+  "model_info": {
+    "n_phones": 1694,
+    "n_states": 3,
+    "n_components": 2,
+    "total_parameters": 406560
+  },
+  "evaluation_results": {
+    "dev": {
+      "avg_loglik": -836.9032967569212,
+      "processed_utts": 1000,
+      "eval_time": 14.530977249145508
+    },
+    "test": {
+      "avg_loglik": -838.3445286255753,
+      "processed_utts": 1000,
+      "eval_time": 14.35572361946106
+    }
+  }
+}

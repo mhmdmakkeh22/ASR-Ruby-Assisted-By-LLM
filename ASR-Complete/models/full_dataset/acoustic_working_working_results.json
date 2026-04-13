@@ -1,0 +1,11 @@
+{
+  "previous_wer": 1.0,
+  "dev_wer": 1.0906525503756856,
+  "test_wer": 1.0743374289605636,
+  "dev_unique_outputs": 29,
+  "test_unique_outputs": 29,
+  "improvement": 0,
+  "training_time": 2.911292314529419,
+  "n_phones": 20,
+  "algorithm": "Working HMM-GMM with diverse outputs"
+}

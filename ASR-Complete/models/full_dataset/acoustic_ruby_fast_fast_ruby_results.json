@@ -1,0 +1,370 @@
+{
+  "training_config": {
+    "n_iterations": 10,
+    "n_components": 8,
+    "n_states": 5,
+    "batch_size": 2500,
+    "ruby_compatible": true
+  },
+  "dataset_info": {
+    "train_utterances": 28539,
+    "dev_utterances": 1000,
+    "test_utterances": 1000,
+    "full_dataset": true,
+    "ruby_ready": true
+  },
+  "training_results": {
+    "total_time": 16.799041986465454,
+    "training_speed": 1698.8468760893104
+  },
+  "ruby_model_info": {
+    "n_phones": 19,
+    "n_states": 5,
+    "n_components": 8,
+    "total_parameters": 30400,
+    "ruby_compatible": true,
+    "output_format": "Ruby JSON + Marshal"
+  },
+  "evaluation_results": {
+    "dev": {
+      "wer": 1.08774824489172,
+      "total_errors": 20483,
+      "total_words": 19483,
+      "processed_utts": 1000,
+      "eval_time": 15.505671977996826,
+      "unique_outputs": 11,
+      "hypotheses": [
+        {
+          "utt_id": "1272-128104-0000",
+          "reference": [
+            "mister",
+            "quilter",
+            "is",
+            "the",
+            "apostle",
+            "of",
+            "the",
+            "middle",
+            "classes",
+            "and",
+            "we",
+            "are",
+            "glad",
+            "to",
+            "welcome",
+            "his",
+            "gospel"
+          ],
+          "hypothesis": [
+            "I"
+          ],
+          "loglik": 0.9355678701845469
+        },
+        {
+          "utt_id": "1272-128104-0001",
+          "reference": [
+            "nor",
+            "is",
+            "mister",
+            "quilter's",
+            "manner",
+            "less",
+            "interesting",
+            "than",
+            "his",
+            "matter"
+          ],
+          "hypothesis": [
+            "IN"
+          ],
+          "loglik": 0.9450112642116311
+        },
+        {
+          "utt_id": "1272-128104-0002",
+          "reference": [
+            "he",
+            "tells",
+            "us",
+            "that",
+            "at",
+            "this",
+            "festive",
+            "season",
+            "of",
+            "the",
+            "year",
+            "with",
+            "christmas",
+            "and",
+            "roast",
+            "beef",
+            "looming",
+            "before",
+            "us",
+            "similes",
+            "drawn",
+            "from",
+            "eating",
+            "and",
+            "its",
+            "results",
+            "occur",
+            "most",
+            "readily",
+            "to",
+            "the",
+            "mind"
+          ],
+          "hypothesis": [
+            "HIS"
+          ],
+          "loglik": 0.7546424942780376
+        },
+        {
+          "utt_id": "1272-128104-0003",
+          "reference": [
+            "he",
+            "has",
+            "grave",
+            "doubts",
+            "whether",
+            "sir",
+            "frederick",
+            "leighton's",
+            "work",
+            "is",
+            "really",
+            "greek",
+            "after",
+            "all",
+            "and",
+            "can",
+            "discover",
+            "in",
+            "it",
+            "but",
+            "little",
+            "of",
+            "rocky",
+            "ithaca"
+          ],
+          "hypothesis": [
+            "I"
+          ],
+          "loglik": -0.2960560018898959
+        },
+        {
+          "utt_id": "1272-128104-0004",
+          "reference": [
+            "linnell's",
+            "pictures",
+            "are",
+            "a",
+            "sort",
+            "of",
+            "up",
+            "guards",
+            "and",
+            "at",
+            "em",
+            "paintings",
+            "and",
+            "mason's",
+            "exquisite",
+            "idylls",
+            "are",
+            "as",
+            "national",
+            "as",
+            "a",
+            "jingo",
+            "poem",
+            "mister",
+            "birket",
+            "foster's",
+            "landscapes",
+            "smile",
+            "at",
+            "one",
+            "much",
+            "in",
+            "the",
+            "same",
+            "way",
+            "that",
+            "mister",
+            "carker",
+            "used",
+            "to",
+            "flash",
+            "his",
+            "teeth",
+            "and",
+            "mister",
+            "john",
+            "collier",
+            "gives",
+            "his",
+            "sitter",
+            "a",
+            "cheerful",
+            "slap",
+            "on",
+            "the",
+            "back",
+            "before",
+            "he",
+            "says",
+            "like",
+            "a",
+            "shampooer",
+            "in",
+            "a",
+            "turkish",
+            "bath",
+            "next",
+            "man"
+          ],
+          "hypothesis": [
+            "WITH"
+          ],
+          "loglik": 0.7120882525980217
+        }
+      ]
+    },
+    "test": {
+      "wer": 1.0790995475160665,
+      "total_errors": 21650,
+      "total_words": 20650,
+      "processed_utts": 1000,
+      "eval_time": 15.21630311012268,
+      "unique_outputs": 12,
+      "hypotheses": [
+        {
+          "utt_id": "1089-134686-0000",
+          "reference": [
+            "he",
+            "hoped",
+            "there",
+            "would",
+            "be",
+            "stew",
+            "for",
+            "dinner",
+            "turnips",
+            "and",
+            "carrots",
+            "and",
+            "bruised",
+            "potatoes",
+            "and",
+            "fat",
+            "mutton",
+            "pieces",
+            "to",
+            "be",
+            "ladled",
+            "out",
+            "in",
+            "thick",
+            "peppered",
+            "flour",
+            "fattened",
+            "sauce"
+          ],
+          "hypothesis": [
+            "HIS"
+          ],
+          "loglik": 0.21505161809695839
+        },
+        {
+          "utt_id": "1089-134686-0001",
+          "reference": [
+            "stuff",
+            "it",
+            "into",
+            "you",
+            "his",
+            "belly",
+            "counselled",
+            "him"
+          ],
+          "hypothesis": [
+            "THE"
+          ],
+          "loglik": 0.7148998288510833
+        },
+        {
+          "utt_id": "1089-134686-0002",
+          "reference": [
+            "after",
+            "early",
+            "nightfall",
+            "the",
+            "yellow",
+            "lamps",
+            "would",
+            "light",
+            "up",
+            "here",
+            "and",
+            "there",
+            "the",
+            "squalid",
+            "quarter",
+            "of",
+            "the",
+            "brothels"
+          ],
+          "hypothesis": [
+            "WHAT"
+          ],
+          "loglik": 0.1373660362040785
+        },
+        {
+          "utt_id": "1089-134686-0003",
+          "reference": [
+            "hello",
+            "bertie",
+            "any",
+            "good",
+            "in",
+            "your",
+            "mind"
+          ],
+          "hypothesis": [
+            "I"
+          ],
+          "loglik": 0.8786944020906913
+        },
+        {
+          "utt_id": "1089-134686-0004",
+          "reference": [
+            "number",
+            "ten",
+            "fresh",
+            "nelly",
+            "is",
+            "waiting",
+            "on",
+            "you",
+            "good",
+            "night",
+            "husband"
+          ],
+          "hypothesis": [
+            "I"
+          ],
+          "loglik": 0.5088027313791759
+        }
+      ]
+    }
+  },
+  "achievements": {
+    "python_training": true,
+    "ruby_model_output": true,
+    "full_dataset_training": true,
+    "diverse_outputs": true,
+    "fast_training": true
+  }
+}
